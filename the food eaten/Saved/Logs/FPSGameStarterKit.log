@@ -3685,3 +3685,58 @@ Stack:
 [2026.07.30-11.32.27:429][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4408.006836
 [2026.07.30-11.32.27:762][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.07.30-11.32.27:762][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4408.313477, Update Interval: 316.078979
+[2026.07.30-11.38.25:851][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4766.422363
+[2026.07.30-11.38.26:851][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-11.38.26:851][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4767.088379, Update Interval: 327.752319
+[2026.07.30-11.38.34:851][495]LogEOSShared: FEOSSDKManager::OnNetworkConnectionStatusChanged [Online] -> [Disabled]
+[2026.07.30-11.38.34:851][495]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Disabled
+[2026.07.30-11.38.35:853][498]LogEOSShared: FEOSSDKManager::OnNetworkConnectionStatusChanged [Disabled] -> [Online]
+[2026.07.30-11.38.35:853][498]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Disabled, NewStatus: EOS_NS_Online
+[2026.07.30-11.44.51:101][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5151.669434
+[2026.07.30-11.44.52:101][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.30-11.44.52:101][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5152.336426, Update Interval: 349.853821
+[2026.07.30-11.46.37:654][716]LogSlate: Window 'Color Picker' being destroyed
+[2026.07.30-11.46.44:441][107]LogSlate: Window 'Color Picker' being destroyed
+[2026.07.30-11.47.06:530][409]Cmd: DUPLICATE
+[2026.07.30-11.47.06:530][409]Cmd: ACTOR DUPLICATE
+[2026.07.30-11.47.26:964][613]LogSlate: Window 'Color Picker' being destroyed
+[2026.07.30-11.47.46:618][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.07.30-11.47.46:625][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.30-11.47.46:693][757]LogFileHelpers: Saving Map: /Game/FPS_Game/Maps/Testing
+[2026.07.30-11.47.46:695][757]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Game/Maps/Testing] ([2] browsable assets)...
+[2026.07.30-11.47.46:695][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/Testing]
+[2026.07.30-11.47.46:814][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.07.30-11.47.47:139][757]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/Testing
+[2026.07.30-11.47.47:140][757]LogSavePackage: Moving '../../../../../../Users/green/Documents/GitHub/tummy-yummy-wammy-yummy-i-love-food-because-it-fills-my-belly/the food eaten/Saved/Testing9E4AAC9C491B250FC0A35D9DCA41A798.tmp' to '../../../../../../Users/green/Documents/GitHub/tummy-yummy-wammy-yummy-i-love-food-because-it-fills-my-belly/the food eaten/Content/FPS_Game/Maps/Testing.umap'
+[2026.07.30-11.47.47:196][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.30-11.47.47:196][757]LogFileHelpers: Saving Package: /Game/FPS_Game/Maps/Testing_BuiltData
+[2026.07.30-11.47.47:196][757]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Game/Maps/Testing_BuiltData] ([1] browsable assets)...
+[2026.07.30-11.47.47:196][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Game/Maps/Testing_BuiltData]
+[2026.07.30-11.47.47:272][757]LogSavePackage: Moving output files for package: /Game/FPS_Game/Maps/Testing_BuiltData
+[2026.07.30-11.47.47:272][757]LogSavePackage: Moving '../../../../../../Users/green/Documents/GitHub/tummy-yummy-wammy-yummy-i-love-food-because-it-fills-my-belly/the food eaten/Saved/Testing_BuiltData9F8375F447184CAF15BF099870D7E08D.tmp' to '../../../../../../Users/green/Documents/GitHub/tummy-yummy-wammy-yummy-i-love-food-because-it-fills-my-belly/the food eaten/Content/FPS_Game/Maps/Testing_BuiltData.uasset'
+[2026.07.30-11.47.47:273][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.813 ms (total: 3.87 sec)
+[2026.07.30-11.47.47:283][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 658.068 ms (total: 4.53 sec)
+[2026.07.30-11.47.47:364][757]LogContentValidation: Enabled validators:
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.07.30-11.47.47:364][757]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.07.30-11.47.47:364][757]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.07.30-11.47.47:364][757]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.07.30-11.47.47:364][757]AssetCheck: /Game/FPS_Game/Maps/Testing Validating asset
+[2026.07.30-11.47.47:365][757]AssetCheck: /Game/FPS_Game/Maps/Testing_BuiltData Validating asset
+[2026.07.30-11.47.47:365][757]LogContentValidation: Validated asset counts for 9 validators:
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.07.30-11.47.47:365][757]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
